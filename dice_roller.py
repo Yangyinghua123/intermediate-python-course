@@ -1,5 +1,7 @@
 def main():
-  #print('You rolled a die')
+    print('You rolled a die')
+    print("adara")
 
-if __name__== "__main__":
-  main()
+
+if __name__ == "__main__":
+    main()
